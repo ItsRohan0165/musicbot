@@ -8,7 +8,7 @@ bot = commands.Bot(command_prefix='/', description='Bossybot')
 
 vc = None
 actualMusic = ""
-ID_CHANNEL_MUSIC = #id_channel
+ID_CHANNEL_MUSIC = '620277275555921923'
 musics = []
 PATH = "./Musics/"
 ydl_id_opt = PATH+'%(id)s.%(ext)s'
