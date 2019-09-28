@@ -4,7 +4,7 @@ import time
 import youtube_dl
 from discord.ext import commands
 
-bot = commands.Bot(command_prefix='/', description='MikuBot!')
+bot = commands.Bot(command_prefix='/', description='Bossybot')
 
 vc = None
 actualMusic = ""
