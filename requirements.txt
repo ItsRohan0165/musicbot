@@ -1,2 +1,3 @@
-discord.pu==1.2.3.
+discord.py==1.2.3.
 google-api-python-client
+youtube_dl
